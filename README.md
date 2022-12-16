@@ -1,9 +1,11 @@
 # Survival-Analysis
 
  Three data-sets have been considered for this task:
+ MSK
+ GENIE
+ TCGA
  
- 
-MSK-IMPACT DATA-SETS
+##MSK-IMPACT DATA-SET
 Data- sets: 
 1.  Data Clinical patient : Give descriptions of all columns
 2.  Data Clinical Sample
