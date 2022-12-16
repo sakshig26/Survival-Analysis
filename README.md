@@ -36,9 +36,13 @@ Step8: Calculate Sg values for both train and test
 
 Step9: Switching To R Code-RWR
 •	I/P- Sg values of train data
+
 •	Seed of test data: Gene list of patients of test data
+
 •	With the help of code variable length seed was handled
+
 •	Dataframe was being created to store Rwr Score, Node Name in ascending for Top k genes for train data. 
+
 •	Then, check if  test data genes that are present as seed to RWR in merged data and calculate average of it. 
 Biological Significance:This will give us a hint that if a gene is mutated then based on this action, other genes that will also be mutated.
 
