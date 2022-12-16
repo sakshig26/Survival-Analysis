@@ -30,7 +30,30 @@ Step6: Pre-processed above file obtained
 This was done to ensure that all those proteins that are mapped to genes above should only be considered as standard, anything else included in list of mutated genes of patients should be dropped off.
 
 Step8: Calculate Sg values for both train and test
-(what is sg value and what is it significance??)
+Pseudo Algorithm:
+gene[]
+
+res_train[]
+
+res_test[]
+
+unique_mutated_list[]
+
+for i in gene:
+   for x in unique_mutated_list[i]:
+   if
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
