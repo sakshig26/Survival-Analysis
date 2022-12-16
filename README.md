@@ -35,30 +35,22 @@ This was done to ensure that all those proteins that are mapped to genes above s
 
 Step8: Calculate Sg values for both train and test
 Pseudo Algorithm:
-gene[]
 
-res_train[]
+1. For each x in gene list
 
-res_test[]
+start
 
-unique_mutated_list[]
+ 2. search x in mutated genes list[y], where y belongs list of unique patients
 
-for i in gene:
-   for x in unique_mutated_list[i]:
-   if
+ 3. if x is in mutated genes list[y]
 
+ 4. calculate length of mutated genes list[y]
 
+ 5. calculate sg score/length of muated genes list[y]
+ 
+ end
 
-
-
-
-
-
-
-
-
-
-
+6. Reiterate for another gene in list
 
 
 Step9: Switching To R Code-RWR
