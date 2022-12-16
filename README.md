@@ -5,17 +5,19 @@
  GENIE
  TCGA
  
-##MSK-IMPACT DATA-SET
+# MSK-IMPACT DATA-SET
 Data- sets: 
 1.  Data Clinical patient : Give descriptions of all columns
 2.  Data Clinical Sample
 3.  Data mutation
 4.  Output_9606.protein.links
 
-## Procedure
+# Procedure
 Step 1: Merging above datasets
+
 Step2: Boostrap dataset into train and test split
 Step 2: Selecting one of the cancer type =”Breast”
+
 Step3: Duplicate records for patient ids are dropped
 Step4 : Grouping all the genes that are mutated corresponding to unique patient ids. :: biological significance?? 
 Step5: Created Protein-Gene mapping Output file from Python code (Another Python notebook) :
