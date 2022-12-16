@@ -62,6 +62,10 @@ for i in gene:
 
 
 Step9: Switching To R Code-RWR
+
+![image](https://user-images.githubusercontent.com/104989737/208085220-e7586cc1-cae4-4f53-9b25-d576a2cf224e.png)
+
+
 •	I/P- Sg values of train data
 
 •	Seed of test data: Gene list of patients of test data
